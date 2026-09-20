@@ -15,12 +15,13 @@ command to run:
 `adk web`
 
 once you get the following output, open the URL shown in your terminal to access the web page.
+`
 +-----------------------------------------------------------------------------+
 | ADK Web Server started                                                      |
 |                                                                             |
 | For local testing, access at http://127.0.0.1:8000.                         |
 +-----------------------------------------------------------------------------+
-
+`
 
 ### Testing the workflow
 
